@@ -12,6 +12,7 @@ button{
   background-color:#3c3c3c;
   color:white;
   border-radius:7;
+  border: none;
   display:flex;
   margin:10px auto;
   align-items:center;
